@@ -1,2 +1,2 @@
 # CalculadoraJavaEclipse
-Calculadora desenvolvida em Java, usando a IDE Eclipse
+Made in Eclipse. I just copied all the code from some guy who posted a video called "How to make a calculator in Java", and I modified some code to my desire. I copied the last phrase from google translator and I don't know if people talk like that. No, that was the only phrase I copied from translator, now I'm writing with my super advanced bilingual techniques. Fine, I lied, I confess I searched for the words "bilingual" and "confess" to see if I writed them wrong and I didn't, so yeah I'm very english man God bless democracy.
